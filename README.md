@@ -1,4 +1,4 @@
-calendar-project
+FOSS Calendar
 ================
 
-The free software calendar project
+The Free Software Calendar Project
