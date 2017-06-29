@@ -1,4 +1,4 @@
 FOSS Calendar
 ================
 
-The Free Software Calendar Project
+A Free Software Calendar Project
